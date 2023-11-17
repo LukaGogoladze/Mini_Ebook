@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228934216866",
+    "project_id": "ebookia",
+    "storage_bucket": "ebookia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228934216866:android:f6560a59be93209e5ffbfb",
+        "android_client_info": {
+          "package_name": "com.example.ebookia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228934216866-fvvpggubkgup49b5ai3cp7cs7kmphqkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu82peegymAAsO9T9wmxYzAuJH_UdKHYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228934216866-fvvpggubkgup49b5ai3cp7cs7kmphqkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

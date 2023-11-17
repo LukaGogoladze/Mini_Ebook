@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="textInputLayout">#96ffffff</color>
+
+    <color name="black">#000</color>
+    <color name="teal_200">#9682D9FB</color>
+    <color name="teal_700">#9666F8F8</color>
+    <color name="purple_700">#969537F4</color>
+    <color name="purple_500">#967E35E4</color>
+    <color name="purple_200">#BC9AFA</color>
+    <color name="white">#FFFFFF</color>
+
+
+
+
+</resources>
